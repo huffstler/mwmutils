@@ -1,4 +1,5 @@
-# mwmutils  
+#Microsoft Window Manager Utils
+## a.k.a mwmutils  
 ###Go [here](https://github.com/huffstler/mwmutils/wiki) for information on installation, getting started and more
 
 mwmutils' core is a set of tools for window manipulation in a Microsoft environment. Each tool only has one purpose, to make it as flexible and reliable as possible.
