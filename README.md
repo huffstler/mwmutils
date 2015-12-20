@@ -10,16 +10,16 @@ Any and all help is appreciated
 
 Features / Windows Limitations: Yes means it will be included in mwmUtils. Maybe means it will be included if its needed, No means it won't be included (obviously)
 
-*Change window Border - No
-*Change window stacking order - Yes
-*Ignore / Unignore window - Yes
-*Kill Window - Yes
-*List Windows - Maybe
-*Map / Unmap Windows - Yes
-*Print focused Window - Maybe
-*Show window Attributes - Maybe
-*Move mouse Pointer - Yes
-*Move a Window - Yes
-*Resize Window - Yes
-*Focus Window - Yes
-*Teleport Window - Yes
+* Change window Border - No
+* Change window stacking order - Yes
+* Ignore / Unignore window - Yes
+* Kill Window - Yes
+* List Windows - Maybe
+* Map / Unmap Windows - Yes
+* Print focused Window - Maybe
+* Show window Attributes - Maybe
+* Move mouse Pointer - Yes
+* Move a Window - Yes
+* Resize Window - Yes
+* Focus Window - Yes
+* Teleport Window - Yes
