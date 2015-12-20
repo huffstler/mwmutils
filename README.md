@@ -1,4 +1,4 @@
-#Microsoft Window Manager Utils
+#Microsoft Window Manager Utilities
 ## a.k.a mwmutils  
 ###Go [here](https://github.com/huffstler/mwmutils/wiki) for information on installation, getting started and more
 
